@@ -1,2 +1,2 @@
 # crud_git
-Atividade de TEI no git
+Claudia Lesama e Valentina Zuliani.
